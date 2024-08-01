@@ -28,6 +28,8 @@ Technologies used in the project:
 
 <h2>🚀 Demo </h2>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/45b8bc48-8ede-4595-ba35-41b4f0d6c44d" alt="YummyRecipes App Demo" width="300">
-</p>
+
+
+https://github.com/user-attachments/assets/e88a233e-5e36-41da-9944-8af506ec7a07
+
+
