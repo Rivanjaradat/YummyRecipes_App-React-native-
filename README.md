@@ -1,7 +1,7 @@
 <h1 align="center" id="title">YummyRecipes</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ca91543f-7629-4d46-90f8-2cd958df3efa" alt="YummyRecipes Logo" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/ca91543f-7629-4d46-90f8-2cd958df3efa" alt="YummyRecipes Logo" width="400" height="600">
 </p>
 
 <p id="description">YummyRecipes is a React Native application that allows users to explore a variety of recipes organized into categories. Users can view detailed information for each recipe including ingredients, steps, and preparation time. The app also offers features like adding recipes to favorites and filtering based on dietary preferences.</p>
